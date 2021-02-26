@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zolik\\source\\repos\\CCRawDataCalculations\\CCRawDataCalculations\\CCRawDataCalculations.csproj": {}
+    "C:\\Users\\zolik\\Documents\\ccrawdata\\CCRawDataCalculations\\CCRawDataCalculations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zolik\\source\\repos\\CCRawDataCalculations\\CCRawDataCalculations\\CCRawDataCalculations.csproj": {
+    "C:\\Users\\zolik\\Documents\\ccrawdata\\CCRawDataCalculations\\CCRawDataCalculations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zolik\\source\\repos\\CCRawDataCalculations\\CCRawDataCalculations\\CCRawDataCalculations.csproj",
+        "projectUniqueName": "C:\\Users\\zolik\\Documents\\ccrawdata\\CCRawDataCalculations\\CCRawDataCalculations.csproj",
         "projectName": "CCRawDataCalculations",
-        "projectPath": "C:\\Users\\zolik\\source\\repos\\CCRawDataCalculations\\CCRawDataCalculations\\CCRawDataCalculations.csproj",
+        "projectPath": "C:\\Users\\zolik\\Documents\\ccrawdata\\CCRawDataCalculations\\CCRawDataCalculations.csproj",
         "packagesPath": "C:\\Users\\zolik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zolik\\source\\repos\\CCRawDataCalculations\\CCRawDataCalculations\\obj\\",
+        "outputPath": "C:\\Users\\zolik\\Documents\\ccrawdata\\CCRawDataCalculations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
