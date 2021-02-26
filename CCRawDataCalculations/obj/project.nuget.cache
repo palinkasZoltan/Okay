@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ta410SBuq9U06YJCDS/fzPe+CiYbh0ngvAeb0avZPzs0kJRuoRWPeSG1uFSshA+WPwsepN5zrHq87tkDixbx0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\zolik\\Documents\\ccrawdata\\CCRawDataCalculations\\CCRawDataCalculations.csproj",
+=======
+  "dgSpecHash": "0DPW9MlW+XxTc7pHPMYB7yjd7bjT4BEU2VkFYP5EMtCX9G4T+1FVmTruIsaq1Iu3KLq3yHokb7QppgrY/EDuyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dargo\\Documents\\ccrawdata\\CCRawDataCalculations\\CCRawDataCalculations.csproj",
+>>>>>>> a57b766f59ff340c8c1e2004ef330a3dfdf342f2
   "expectedPackageFiles": [],
   "logs": []
 }
